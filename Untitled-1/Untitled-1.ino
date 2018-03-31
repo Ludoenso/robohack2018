@@ -1,4 +1,4 @@
-const int PhotoTopRight = A1;
+ticonst int PhotoTopRight = A1;
 const int PhotoTopLeft = A0;
 const int PhotoBottomRight = A3;
 const int PhotoBottomLeft = A2;
